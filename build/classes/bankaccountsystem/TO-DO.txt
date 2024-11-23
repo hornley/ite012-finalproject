@@ -1,0 +1,59 @@
+<--- Done --->
+Modules:
+> Withdraw
+> Deposit
+> Balance Inquiry
+> Pay Bills
+> Send Money
+> Lock/Unlock
+> Receipt
+> Report
+> About
+> Search
+> Try Again
+> Register
+-> User and Client Option
+-> Validation of Registration
+-> Remove card type, interest, initial deposit, and account number and temp PIN on register ng user
+-> remove username and password on register client
+> Double data type the amount and add PHP to the monetary funds
+> Year in registration
+> change pin --- OLD pin, new PIN, confirm new PIN
+> Include notifications
+> balance inquiry --- pred bal and transac history options
+
+
+<--- Not Yet Done --->
+> Dropdown for report
+
+> Errors
+-> Invalid Input (not a number)
+-> Account Locked Error, can't do any transactions!
+-> Empty TextFields interaction for all instances
+
+
+Debit Account
+> 0.75
+-> 500 minimum initial
+-> 0 maintaining
+
+> 1.25
+-> 1,500 minimum initial
+-> 0 maintaining
+
+> 2.0
+-> 2,500 minimum initial
+-> 0 maintaining
+
+Credit Account
+> 2.5
+-> 5,000 minimum initial
+-> 1,000 maintaining
+
+> 3.5
+-> 10,000 minimum initial
+-> 2,500 maintaining
+
+> 5.0
+-> 15,000 minimum initial
+-> 5,000 maintaining
